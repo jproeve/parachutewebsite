@@ -1,2 +1,1 @@
-# parachute
-Parachute Insurance Website
+byparachute.github.io
